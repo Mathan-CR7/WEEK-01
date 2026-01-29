@@ -1,4 +1,4 @@
-public class breaklabel{
+public class BreakLabel{
  public static void main(String[] args) 
  {
     outer :

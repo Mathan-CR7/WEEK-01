@@ -1,7 +1,7 @@
 //MULTICASES WITH YIELD KEYWORD
 
 import java.util.*;
-public class multi
+public class MultiCase
 {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);

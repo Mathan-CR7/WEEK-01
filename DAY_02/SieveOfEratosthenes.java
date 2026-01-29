@@ -1,6 +1,6 @@
 
 
-public class sieve_of_eratosthenes {
+public class SieveOfEratosthenes {
     public static void main(String[] args) {
         int n=1000;
         boolean[] prime = new boolean[n+1];

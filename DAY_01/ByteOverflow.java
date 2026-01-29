@@ -1,4 +1,4 @@
-public class Byte_Overflow {
+public class ByteOverflow {
     public static void main(String args[])
     {
         byte b= 126;

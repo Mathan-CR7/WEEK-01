@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class switche
+public class SwitchExpression
 {
     public static void main(String[] args)
     {

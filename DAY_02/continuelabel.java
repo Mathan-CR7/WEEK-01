@@ -1,4 +1,4 @@
-public class continuelabel {
+public class ContinueLabel {
     public static void main(String[] args) {
         {
             outer :
